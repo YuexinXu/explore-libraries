@@ -3,5 +3,9 @@ hello you guys
 hello
 awesome
 median()
+<<<<<<< HEAD
 local win
 making more progress
+=======
+local change conflict from git
+>>>>>>> d61936e... conflict from git
